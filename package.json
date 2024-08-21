@@ -1,8 +1,8 @@
 {
-  "name": "@vuepic/vue-datepicker",
-  "version": "9.0.2",
-  "description": "Datepicker component for Vue 3",
-  "author": "Vuepic",
+  "name": "@jcamp/vue-datepicker",
+  "version": "9.0.3",
+  "description": "Datepicker component for Vue 3 with root click fix",
+  "author": "johncampionjr",
   "private": false,
   "license": "MIT",
   "homepage": "https://vue3datepicker.com",
